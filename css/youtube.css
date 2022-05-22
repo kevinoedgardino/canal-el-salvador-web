@@ -1,0 +1,33 @@
+.playlists {
+    width: 100%;    
+}
+.videos {
+    background-color: #0d6efdc4;
+    width: 350px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    overflow: hidden;
+    transition: all 300ms ease;
+}
+.videos:hover {
+    background-color: #0d6efd;
+    transform: scale(1.1);
+}
+.titulo-playlist a {
+    color: #fff ;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+.videos a:hover {
+    color: #fff;
+}
+.videos iframe {
+    width: 100%;
+    margin: auto;   
+}

@@ -1,0 +1,28 @@
+@media (max-width: 915px) {
+    .booba {
+        margin-top: 235px !important;
+    }
+}
+
+@media (max-width: 520px) {
+    .booba {
+    margin-top: 260px !important;
+    }
+    .booba2 {
+        background: #a1887fa6 !important;
+        border: 7px solid #95786d !important;
+        border-radius: 10px !important;
+        margin: 0px 10px !important;
+        padding: 21px !important;
+        color: #fff !important;
+    }
+    .muestra-imagenes {
+        display: block !important;
+        justify-content: center !important;
+        margin: auto !important;
+    }
+    .muestra-imagenes img {
+        display: flex !important;
+        margin: 8px auto !important;
+    }
+}

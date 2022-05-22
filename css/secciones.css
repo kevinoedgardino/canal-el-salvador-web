@@ -1,0 +1,23 @@
+.booba {
+    margin-top: 240px;
+    color: #000;
+}
+
+.booba2 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.booba2 a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.booba2 {
+    background: #a1887fa6;
+    border: 7px solid #95786d;
+    border-radius: 10px;
+    margin: 0px 40px;
+    padding: 21px;
+    color: #fff;
+}
